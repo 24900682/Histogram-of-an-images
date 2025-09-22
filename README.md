@@ -36,7 +36,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('iron.jpg')
+image = cv2.imread('me.jpg')
 
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
@@ -79,9 +79,8 @@ plt.show()
 
 ```
 ## Output:
-<img width="1271" height="807" alt="Screenshot 2025-08-26 161021" src="https://github.com/user-attachments/assets/2f05d822-7405-4dad-9454-0b8d8bebce4a" />
 
-
+<img width="823" height="577" alt="Screenshot 2025-09-22 213612" src="https://github.com/user-attachments/assets/32dd3826-8cf0-47db-ae27-84b5f2f94f1f" />
 
 
 ## Result: 
